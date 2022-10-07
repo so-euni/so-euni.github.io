@@ -1,3 +1,9 @@
+---
+categories: Git
+title: Git 세팅 및 로컬-원격 저장소 연결
+tags: [git]
+---
+
 1. git 저장소 초기화<br>
 git init<br><br>
 
