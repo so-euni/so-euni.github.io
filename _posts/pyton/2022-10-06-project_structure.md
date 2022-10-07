@@ -1,5 +1,5 @@
 ---
-categories: Python
+categories: [Python]
 title: nginx + uvicorn(ASGI 웹 서버) + gunicorn + Django-ninja(Django+FastApi)
 tags: [python, django, nginx, uvicorn, asgi, gunicorn, ninja, fastapi]
 ---
